@@ -11,6 +11,7 @@ public class ReverseLinkedList {
             this.data = data;
         }
     }
+    static Node head;
         static class LinkedList{
             Node head;
 
